@@ -151,7 +151,7 @@
 </div>
 </div>
 </section> 
-<section class="ftco-section ftco-no-pb ftco-no-pt bg-secondary">
+<!-- <section class="ftco-section ftco-no-pb ftco-no-pt bg-secondary">
 <div class="container py-5">
 <div class="row">
 <div class="col-md-7 d-flex align-items-center">
@@ -167,5 +167,5 @@
 </div>
 </div>
 </div>
-</section>
+</section> -->
 <?php include 'includes/footer.php'; ?>

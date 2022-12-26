@@ -103,7 +103,7 @@ Your message was sent, thank you!
 </div>
 </div>
 </section>
-<div id="map" class="map"></div>
+<!-- <div id="map" class="map"></div> -->
 <section class="ftco-section ftco-no-pb ftco-no-pt bg-secondary">
 <div class="container py-5">
 <div class="row">

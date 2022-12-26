@@ -1,3 +1,21 @@
+<section class="ftco-section ftco-no-pb ftco-no-pt bg-secondary">
+    <div class="container py-5">
+        <div class="row">
+            <div class="col-md-7 d-flex align-items-center">
+                <h2 class="mb-3 mb-sm-0" style="color:black; font-size: 22px;">Sign Up for Your Free 1st Accounting Consultation</h2>
+            </div>
+            <div class="col-md-5 d-flex align-items-center">
+                <form action="#" class="subscribe-form">
+                    <div class="form-group d-flex">
+                        <input type="text" class="form-control" placeholder="Enter email address">
+                        <input type="submit" value="Subscribe" class="submit px-3">
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
 <footer class="footer">
     <div class="container-fluid px-lg-5">
         <div class="row">
@@ -48,7 +66,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="row mt-md-5">
+                <!-- <div class="row mt-md-5">
                     <div class="col-md-12">
                         <p class="copyright">
                             Copyright &copy;<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
@@ -57,7 +75,7 @@
                             </script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib.com</a>
                         </p>
                     </div>
-                </div>
+                </div> -->
             </div>
             <div class="col-md-3 py-md-5 py-4 aside-stretch-right pl-lg-5">
                 <h2 class="footer-heading">Free consultation</h2>
