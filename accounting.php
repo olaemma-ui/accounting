@@ -4,8 +4,8 @@
    <div class="container">
       <div class="row no-gutters slider-text align-items-end">
          <div class="col-md-9 ftco-animate pb-5">
-            <p class="breadcrumbs mb-2"><span class="mr-2"><a href="index.php">Home <i class="ion-ios-arrow-forward"></i></a></span> <span class="mr-2"><a href="blog.php">Blog <i class="ion-ios-arrow-forward"></i></a></span> <span>Blog Single <i class="ion-ios-arrow-forward"></i></span></p>
-            <h1 class="mb-0 bread">Blog Single</h1>
+            <p class="breadcrumbs mb-2"><span class="mr-2"><a href="index.php">Home <i class="ion-ios-arrow-forward"></i></a></span> <span><a href="services.php">Services <i class="ion-ios-arrow-forward"></i></a></span><i class="ion-ios-arrow-forward"></i></a></span> <span> Accounting <i class="ion-ios-arrow-forward"></i></span></p>
+            <h1 class="mb-0 bread">Accounting Service</h1>
          </div>
       </div>
    </div>
@@ -20,10 +20,10 @@
             <h2 class="mb-3">It is a long established fact a reader be distracted</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis, eius mollitia suscipit, quisquam doloremque distinctio perferendis et doloribus unde architecto optio laboriosam porro adipisci sapiente officiis nemo accusamus ad praesentium? Esse minima nisi et. Dolore perferendis, enim praesentium omnis, iste doloremque quia officia optio deserunt molestiae voluptates soluta architecto tempora.</p>
             <p>Molestiae cupiditate inventore animi, maxime sapiente optio, illo est nemo veritatis repellat sunt doloribus nesciunt! Minima laborum magni reiciendis qui voluptate quisquam voluptatem soluta illo eum ullam incidunt rem assumenda eveniet eaque sequi deleniti tenetur dolore amet fugit perspiciatis ipsa, odit. Nesciunt dolor minima esse vero ut ea, repudiandae suscipit!</p>
-            <h2 class="mb-3 mt-5">#2. Creative WordPress Themes</h2>
+            <!-- <h2 class="mb-3 mt-5">#2. Creative WordPress Themes</h2>
             <p>Temporibus ad error suscipit exercitationem hic molestiae totam obcaecati rerum, eius aut, in. Exercitationem atque quidem tempora maiores ex architecto voluptatum aut officia doloremque. Error dolore voluptas, omnis molestias odio dignissimos culpa ex earum nisi consequatur quos odit quasi repellat qui officiis reiciendis incidunt hic non? Debitis commodi aut, adipisci.</p>
-            <p>
-               <img src="images/image_2.jpg" alt="" class="img-fluid">
+            <p> -->
+               <!-- <img src="images/image_2.jpg" alt="" class="img-fluid">
             </p>
             <p>Quisquam esse aliquam fuga distinctio, quidem delectus veritatis reiciendis. Nihil explicabo quod, est eos ipsum. Unde aut non tenetur tempore, nisi culpa voluptate maiores officiis quis vel ab consectetur suscipit veritatis nulla quos quia aspernatur perferendis, libero sint. Error, velit, porro. Deserunt minus, quibusdam iste enim veniam, modi rem maiores.</p>
             <p>Odit voluptatibus, eveniet vel nihil cum ullam dolores laborum, quo velit commodi rerum eum quidem pariatur! Quia fuga iste tenetur, ipsa vel nisi in dolorum consequatur, veritatis porro explicabo soluta commodi libero voluptatem similique id quidem? Blanditiis voluptates aperiam non magni. Reprehenderit nobis odit inventore, quia laboriosam harum excepturi ea.</p>
@@ -36,7 +36,7 @@
                   <a href="#" class="tag-cloud-link">Tech</a>
                   <a href="#" class="tag-cloud-link">Travel</a>
                </div>
-            </div>
+            </div> -->
             <div class="about-author d-flex p-4 bg-light">
                <div class="bio mr-5">
                   <img src="images/person_1.jpg" alt="Image placeholder" class="img-fluid mb-4">
@@ -46,7 +46,7 @@
                   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus itaque, autem necessitatibus voluptate quod mollitia delectus aut, sunt placeat nam vero culpa sapiente consectetur similique, inventore eos fugit cupiditate numquam!</p>
                </div>
             </div>
-            <div class="pt-5 mt-5">
+            <!-- <div class="pt-5 mt-5">
                <h3 class="mb-5">6 Comments</h3>
                <ul class="comment-list">
                   <li class="comment">
@@ -146,27 +146,27 @@
                      </div>
                   </form>
                </div>
-            </div>
+            </div> -->
          </div>
          <div class="col-lg-4 sidebar pl-lg-5 ftco-animate">
-            <div class="sidebar-box">
+            <!-- <div class="sidebar-box">
                <form action="#" class="search-form">
                   <div class="form-group">
                      <span class="fa fa-search"></span>
                      <input type="text" class="form-control" placeholder="Type a keyword and hit enter">
                   </div>
                </form>
-            </div>
+            </div> -->
             <div class="sidebar-box ftco-animate">
                <div class="categories">
                   <h3>Services</h3>
-                  <li><a href="#">Market Analysis <span class="fa fa-chevron-right"></span></a></li>
-                  <li><a href="#">Accounting Advisor <span class="fa fa-chevron-right"></span></a></li>
-                  <li><a href="#">General Consultancy <span class="fa fa-chevron-right"></span></a></li>
-                  <li><a href="#">Structured Assesment <span class="fa fa-chevron-right"></span></a></li>
+                  <li><a href="#">Tax, Compliance &amp; Payroll <span class="fa fa-chevron-right"></span></a></li>
+                  <li><a href="#">Accounting <span class="fa fa-chevron-right"></span></a></li>
+                  <li><a href="#">Financial Services <span class="fa fa-chevron-right"></span></a></li>
+                  <li><a href="#">Growth &amp; Funding Access <span class="fa fa-chevron-right"></span></a></li>
                </div>
             </div>
-            <div class="sidebar-box ftco-animate">
+            <!-- <div class="sidebar-box ftco-animate">
                <h3>Recent Blog</h3>
                <div class="block-21 mb-4 d-flex">
                   <a class="blog-img mr-4" style="background-image: url(images/image_1.jpg);"></a>
@@ -218,7 +218,7 @@
             <div class="sidebar-box ftco-animate">
                <h3>Paragraph</h3>
                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus itaque, autem necessitatibus voluptate quod mollitia delectus aut, sunt placeat nam vero culpa sapiente consectetur similique, inventore eos fugit cupiditate numquam!</p>
-            </div>
+            </div> -->
          </div>
       </div>
    </div>

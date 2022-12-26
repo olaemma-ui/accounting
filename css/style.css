@@ -304,6 +304,10 @@ mark,
 .figure {
   display: inline-block; }
 
+.text-dark{
+  color: var(--secondary);
+}
+
 code {
   font-size: 87.5%;
   color: #e83e8c;
