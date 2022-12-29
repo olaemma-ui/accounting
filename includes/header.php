@@ -58,8 +58,56 @@
             <div class="collapse navbar-collapse" id="ftco-nav">
                 <ul class="navbar-nav m-auto">
                     <li class="nav-item active"><a href="index.php" class="nav-link">Home</a></li>
-                    <li class="nav-item"><a href="industries.php" class="nav-link">Industries</a></li>
-                    <li class="nav-item"><a href="services.php" class="nav-link">Services</a></li>
+                    <li class="nav-item dropdown bg-success">
+                        <a href="industries.php#" class="nav-link dropdown-toggle">Industries</a>
+                        <ul class="dropdown-menu">
+                            <li class="nav-item">
+                                <a href="finance.php" class="nav-link" style="color: black;">Financial Services</a>
+                            </li>
+
+                            <li class="nav-item">
+                                <a href="gne.php" class="nav-link" style="color: black;">Government, NGOs & Education (GNE)</a>
+                            </li>
+
+                            <li class="nav-item">
+                                <a href="icm.php" class="nav-link" style="color: black;">Industrial & Consumer Markets (ICM)</a>
+                            </li>
+
+                            <li class="nav-item">
+                                <a href="natural_resource.php" class="nav-link" style="color: black;">Power & Natural Resources</a>
+                            </li>
+
+                            <li class="nav-item">
+                                <a href="tt.php" class="nav-link" style="color: black;">Technology & Telecommunication (TT)</a>
+                            </li>
+
+                            <li class="nav-item">
+                                <a href="industries.php" class="nav-link" style="color: black;">Real Estate & Infrastructure (REI)</a>
+                            </li>
+
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown bg-success">
+                        <a href="services.php#" class="nav-link dropdown-toggle">Services</a>
+                        <ul class="dropdown-menu">
+                            <li class="nav-item">
+                                <a href="audit_assurance.php" class="nav-link" style="color: black;">Audit & Assurance</a>
+                            </li>
+
+                            <li class="nav-item">
+                                <a href="risk_mngmt.php" class="nav-link" style="color: black;">Business Advisory & Risk Management</a>
+                            </li>
+
+                            <li class="nav-item">
+                                <a href="tax.php" class="nav-link" style="color: black;">Tax Consulting </a>
+                            </li>
+
+                            <li class="nav-item">
+                                <a href="business_support.php" class="nav-link" style="color: black;">Business Support Services</a>
+                            </li>
+
+                        </ul>
+                    </li>
                     <li class="nav-item"><a href="blog.php" class="nav-link">Insights</a></li>
                     <li class="nav-item"><a href="about.php" class="nav-link">About</a></li>
                     <li class="nav-item"><a href="contact.php" class="nav-link">Contact</a></li>
