@@ -598,6 +598,17 @@ fieldset:disabled a.btn {
         display: block;
         margin-top: 0;
      }
+     .dropdown-menu .nav-item{
+      border-bottom: solid 1px rgba(0, 0, 0, 0.248);
+   }
+   .dropdown-menu{
+    width: 100%;
+   }
+   @media screen and (min-width: 770px) {
+    .dropdown-menu{
+      width: 250px !important;
+    }
+   }
 .btn-link {
   font-weight: 400;
   color: #007bff; }
