@@ -16,15 +16,15 @@
 </head>
 
 <body>
-    <div class="wrap">
-        <div class="container">
+    <div class="wrap bg-orange">
+        <div class="container-fluid">
             <div class="row">
                 <div class="col-md-12">
-                    <div class="bg-wrap">
+                    <div>
                         <div class="row">
                             <div class="col-md-6 d-flex align-items-center">
                                 <p class="mb-0 phone pl-md-2">
-                                    <a href="#" class="mr-2"><span class="fa fa-phone mr-1"></span> +234 805 654 6748</a>
+                                    <a href="#" class="mr-2" ><span class="fa fa-phone mr-1"></span> +234 805 654 6748</a>
                                     <a href="#" class="mr-2"><span class="fa fa-phone mr-1"></span> +234 703 026 8907</a>
                                     <a href="#"><span class="fa fa-paper-plane mr-1"></span> <span class="__cf_email__" data-cfemail="1b62746e697e767a72775b7e767a727735787476">leadmagroup@gmail.com</span></a>
                                 </p>

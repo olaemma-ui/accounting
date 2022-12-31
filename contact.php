@@ -68,7 +68,7 @@
                               <span class="fa fa-map-marker"></span>
                            </div>
                            <div class="text pl-3">
-                              <p><span>Address:</span> 198 West 21th Street, Suite 721 New York NY 10016</p>
+                              <p><span>Address:</span> 44, Okun-Owa street, Olodi Apapa, Lagos </p>
                            </div>
                         </div>
                         <div class="dbox w-100 d-flex align-items-center">
@@ -76,7 +76,8 @@
                               <span class="fa fa-phone"></span>
                            </div>
                            <div class="text pl-3">
-                              <p><span>Phone:</span> <a href="tel://1234567920">+ 1235 2355 98</a></p>
+                              <p><span>Phone:</span> <a href="tel://1234567920">+234 805 654 6748</a></p>
+                              <p><span>Phone:</span> <a href="tel://1234567920">+234 703 026 8907</a></p>
                            </div>
                         </div>
                         <div class="dbox w-100 d-flex align-items-center">
@@ -84,7 +85,7 @@
                               <span class="fa fa-paper-plane"></span>
                            </div>
                            <div class="text pl-3">
-                              <p><span>Email:</span> <a href="/cdn-cgi/l/email-protection#a6cfc8c0c9e6dfc9d3d4d5cfd2c388c5c9cb"><span class="__cf_email__" data-cfemail="51383f373e11283e2423223825347f323e3c">[email&#160;protected]</span></a></p>
+                              <p><span>Email:</span> <a href="/cdn-cgi/l/email-protection#a6cfc8c0c9e6dfc9d3d4d5cfd2c388c5c9cb"><span class="__cf_email__" data-cfemail="51383f373e11283e2423223825347f323e3c">leadmagroup@gmail.com</span></a></p>
                            </div>
                         </div>
                         <div class="dbox w-100 d-flex align-items-center">
@@ -92,31 +93,13 @@
                               <span class="fa fa-globe"></span>
                            </div>
                            <div class="text pl-3">
-                              <p><span>Website</span> <a href="#">yoursite.com</a></p>
+                              <p><span>Website</span> <a href="#">leviAdetiga_co.com</a></p>
                            </div>
                         </div>
                      </div>
                   </div>
                </div>
             </div>
-         </div>
-      </div>
-   </div>
-</section>
-<!-- <div id="map" class="map"></div> -->
-<section class="ftco-section ftco-no-pb ftco-no-pt bg-secondary">
-   <div class="container py-5">
-      <div class="row">
-         <div class="col-md-7 d-flex align-items-center">
-            <h2 class="mb-3 mb-sm-0" style="color:black; font-size: 22px;">Sign Up for Your Free 1st Accounting Consultation</h2>
-         </div>
-         <div class="col-md-5 d-flex align-items-center">
-            <form action="#" class="subscribe-form">
-               <div class="form-group d-flex">
-                  <input type="text" class="form-control" placeholder="Enter email address">
-                  <input type="submit" value="Subscribe" class="submit px-3">
-               </div>
-            </form>
          </div>
       </div>
    </div>

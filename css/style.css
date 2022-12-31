@@ -3334,3 +3334,9 @@ textarea.form-control {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
 
+.bg-orange{
+  background-color: #ff7300cd !important;
+}
+.text-light{
+  color: var(--light) !important;
+}

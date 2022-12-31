@@ -1,8 +1,8 @@
-<section class="ftco-section ftco-no-pb ftco-no-pt bg-secondary">
+<section class="ftco-section ftco-no-pb ftco-no-pt bg-secondar bg-orange">
     <div class="container py-5">
         <div class="row">
             <div class="col-md-7 d-flex align-items-center">
-                <h2 class="mb-3 mb-sm-0" style="color:black; font-size: 22px;">Sign Up for Your Free 1st Accounting Consultation</h2>
+                <h2 class="mb-3 mb-sm-0" style="color:white; font-size: 22px;">Sign Up for Your Free 1st Accounting Consultation</h2>
             </div>
             <div class="col-md-5 d-flex align-items-center">
                 <form action="#" class="subscribe-form">
