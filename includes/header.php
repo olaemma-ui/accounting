@@ -49,7 +49,7 @@
             <a class="text-dark" href="index.php">
                 <img src=".\images\logo.png" style="width: 4em" alt="">
                 <div class="sm-invisible">
-                    Levi Adetiga & Co.
+                    Levi Adetigha & Co.
                 </div>
             </a>
             <button class="navbar-toggler d-bloc p-0" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">

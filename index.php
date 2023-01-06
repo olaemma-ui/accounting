@@ -139,7 +139,7 @@
     </div>
   </div>
 </section>
-<section class="ftco-counter bg-light ftco-no-pt" id="section-counter">
+<!-- <section class="ftco-counter bg-light ftco-no-pt" id="section-counter">
   <div class="container">
     <div class="row">
       <div class="col-md-6 col-lg-3 d-flex justify-content-center counter-wrap ftco-animate">
@@ -184,8 +184,8 @@
       </div>
     </div>
   </div>
-</section>
-<section class="ftco-section testimony-section bg-light">
+</section> -->
+<!-- <section class="ftco-section testimony-section bg-light">
   <div class="overlay bg-orange"></div>
   <div class="container">
     <div class="row justify-content-center pb-5 mb-3">
@@ -276,7 +276,7 @@
       </div>
     </div>
   </div>
-</section>
+</section> -->
 <section class="ftco-section ftco-no-pt bg-light ftco-faqs">
   <div class="container">
     <div class="row">
