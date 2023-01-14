@@ -1,13 +1,13 @@
-<section class="ftco-section ftco-no-pb ftco-no-pt bg-secondar bg-orange">
+<section class="ftco-section ftco-no-pb ftco-no-pt bg-light" style="">
     <div class="container py-5">
         <div class="row">
             <div class="col-md-7 d-flex align-items-center">
-                <h2 class="mb-3 mb-sm-0" style="color:white; font-size: 22px;">Sign Up for Your Free 1st Accounting Consultation</h2>
+                <h2 class="mb-3 mb-sm-0" style="color:black; font-size: 22px;">Sign Up for Your Free 1st Accounting Consultation</h2>
             </div>
             <div class="col-md-5 d-flex align-items-center">
                 <form action="#" class="subscribe-form">
                     <div class="form-group d-flex">
-                        <input type="text" class="form-control" placeholder="Enter email address">
+                        <input type="text" class="form-control" style="background: var(--light !important;" placeholder="Enter email address">
                         <input type="submit" value="Subscribe" class="submit px-3">
                     </div>
                 </form>
@@ -25,9 +25,9 @@
                         <h2 class="footer-heading">About us</h2>
                         <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
                         <ul class="ftco-footer-social p-0">
-                            <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Twitter"><span class="fa fa-twitter"></span></a></li>
-                            <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
-                            <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Instagram"><span class="fa fa-instagram"></span></a></li>
+                            <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Twitter"><span class="fa fa-twitter" style="color: #ff7300cd !important;"></span></a></li>
+                            <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook" style="color: #ff7300cd !important;"></span></a></li>
+                            <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Instagram"><span class="fa fa-instagram" style="color: #ff7300cd !important;"></span></a></li>
                         </ul>
                     </div>
                     <div class="col-md-6">
@@ -76,7 +76,7 @@
                 <div class="row mt-md-5">
                     <div class="col-md-12 d-flex">
                         <ul class="ftco-footer-social p-0">
-                            <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Twitter"><span class="fa fa-map-marker"></span></a></li>
+                            <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Twitter"><span class="fa fa-map-marker" style="color: #ff7300cd !important;"></span></a></li>
                         </ul>
                         <p class="p-0 m-0">
                             44, Okun-Owa street, Olodi Apapa, Lagos 

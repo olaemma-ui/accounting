@@ -1842,7 +1842,7 @@ h1, h2, h3, h4,
     }
     .ftco-navbar-light .nav-link:hover{
       color: var(--white) !important;
-      background-color: var(--green);
+      background-color: #ff7300cd;
     }
     .ftco-navbar-light {
       background: #fff;
@@ -1882,7 +1882,7 @@ h1, h2, h3, h4,
       height: 2px;
       bottom: 0px;
       left: 0;
-      background-color: #1ba12d;
+      background-color: #ff7300cd;
       visibility: hidden;
       -webkit-transform: scaleX(0);
       -ms-transform: scaleX(0);
@@ -1892,10 +1892,10 @@ h1, h2, h3, h4,
       transition: all 0.5s ease-in-out 0s;
       z-index: -1; }
     .ftco-navbar-light .navbar-nav > .nav-item > .nav-link:hover {
-      color: #1ba12d; }
+      color: #ff7300cd; }
       .ftco-navbar-light .navbar-nav > .nav-item > .nav-link:hover:before {
         visibility: visible;
-        background-color: #1ba12d;
+        background-color: #ff7300cd;
         -webkit-transform: scaleX(1);
         -ms-transform: scaleX(1);
         transform: scaleX(1); }
@@ -1918,7 +1918,7 @@ h1, h2, h3, h4,
             height: 2px;
             bottom: 0px;
             left: 0;
-            background-color: #1ba12d;
+            background-color: #ff7300cd;
             visibility: hidden;
             -webkit-transform: scaleX(0);
             -ms-transform: scaleX(0);
@@ -1928,10 +1928,10 @@ h1, h2, h3, h4,
             transition: all 0.5s ease-in-out 0s;
             z-index: -1; }
           .dropdown-menu .nav-item > .nav-link:hover {
-            color: #1ba12d; }
+            color: #ff7300cd; }
             .dropdown-menu .nav-item > .nav-link:hover:before {
               visibility: visible;
-              background-color: #1ba12d;
+              background-color: #ff7300cd;
               -webkit-transform: scaleX(1);
               -ms-transform: scaleX(1);
               transform: scaleX(1); }
@@ -1979,10 +1979,10 @@ h1, h2, h3, h4,
         -webkit-box-shadow: none;
         box-shadow: none; } }
   .ftco-navbar-light .navbar-nav > .nav-item.active > a {
-    color: #1ba12d; }
+    color: #ff7300cd; }
     .ftco-navbar-light .navbar-nav > .nav-item.active > a:before {
       visibility: visible;
-      background-color: #1ba12d;
+      background-color: #ff7300cd;
       -webkit-transform: scaleX(1);
       -ms-transform: scaleX(1);
       transform: scaleX(1); }
@@ -2636,7 +2636,7 @@ textarea.form-control {
         -webkit-box-shadow: none;
         box-shadow: none; }
     .footer .form-consultation .submit {
-      background: #1ba12d !important;
+      background: #ff7300cd !important;
       color: #fff !important; }
     .footer .form-consultation textarea.form-control {
       height: inherit !important; }
@@ -2808,7 +2808,7 @@ textarea.form-control {
       border-radius: 50%;
       background: rgba(0, 0, 0, 0.1); }
       .testimony-section .owl-dots .owl-dot.active {
-        background: #1ba12d; }
+        background: #ff7300cd; }
 
 .testimony-wrap {
   display: block;
@@ -2827,7 +2827,7 @@ textarea.form-control {
     width: 40px;
     height: 40px;
     border-radius: 50%;
-    background: #1ba12d; }
+    background: #ff7300; }
     .testimony-wrap .icon span {
       color: #fff; }
   .testimony-wrap .user-img {
@@ -2917,7 +2917,7 @@ textarea.form-control {
   font-style: normal; }
 
 .ftco-faqs button[aria-expanded="true"] {
-  background-color: #1ba12d;
+  background-color: #ff7300cd;
   color: #fff !important; }
   .ftco-faqs button[aria-expanded="true"] .fa {
     color: #fff !important; }
@@ -2991,7 +2991,7 @@ textarea.form-control {
         .blog-entry .text .heading a:hover, .blog-entry .text .heading a:focus, .blog-entry .text .heading a:active {
           color: #1ba12d; }
     .blog-entry .text .meta-chat {
-      color: #1ba12d; }
+      color: #ff7300cd; }
     .blog-entry .text .read {
       color: #000000;
       font-size: 14px; }
@@ -3025,7 +3025,7 @@ textarea.form-control {
       border-radius: 50%;
       border: 1px solid #e6e6e6; }
     .block-27 ul li.active a, .block-27 ul li.active span {
-      background: #1ba12d;
+      background: #ff7300cd;
       color: #fff;
       border: 1px solid transparent; }
 
@@ -3208,7 +3208,7 @@ textarea.form-control {
         color: rgba(0, 0, 0, 0.7) !important; }
     .subscribe-form .form-group .submit {
       color: #fff !important;
-      background: #1ba12d !important;
+      background: #ff7a0d !important;
       border-radius: 0px 5px 5px 0px;
       font-size: 16px; }
       .subscribe-form .form-group .submit:hover {

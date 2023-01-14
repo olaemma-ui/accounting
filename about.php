@@ -74,7 +74,7 @@
    </div>
 </section>
 <section class="ftco-section testimony-section bg-light">
-   <div class="overlay bg-orange"></div>
+   <div class="overlay bg-primary"></div>
    <div class="container">
       <div class="row justify-content-center pb-5 mb-3">
          <div class="col-md-7 heading-section heading-section-white text-center ftco-animate">

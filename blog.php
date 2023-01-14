@@ -10,7 +10,7 @@
       </div>
    </div>
 </section>
-<section class="ftco-section">
+<section class="ftco-section bg-ligh">
    <div class="container">
       <div class="row d-flex">
          <div class="col-md-4 d-flex ftco-animate">
